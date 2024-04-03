@@ -7,7 +7,7 @@ Imformatica para web
 
 ## Interesses
 
-- Jogar bola e sair com amigos
+- Programação
 
 ## Projetos
 
